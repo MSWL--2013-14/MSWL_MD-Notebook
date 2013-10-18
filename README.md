@@ -8,35 +8,31 @@ Introduction
 
 Developers and motivations shows ....
 
-Requirements
-=============
+##Requirements
+
 
 * Use markdown syntax: http://github.github.com/github-flavored-markdown/ and this extended guide for markdown http://daringfireball.net/projects/markdown/syntax.
 * An useful link for Ruby installation would be: http://www.getvines.org/
 * And for Ruby linux packages:  http://pkgs.org
 
-Wiki Notebook
-==============
+##Wiki Notebook
+
 
 * Lesson 1:  [`TBC`]
 * Lesson 2:  [`TBC`]
 
 
-Development & Collaborate 
-===========================
+##Development & Collaborate 
+
 
  * Pick an issue for the lesson you are going to update.
- * Go to [Project Management Wiki](https://github.com/Roumia/MSWL_MD-Notebook/wiki)  .
+ * Go to [Developers and motivations-notebook Wikis ](https://github.com/Roumia/MSWL_MD-Notebook/wiki)  .
  * Start collaborating
 
 
-Other editors
---------------
 
-Fell free to use the editor you are more comfortable, you can use other editor you want to develop this wiki.
+##License
 
-License
-========
 
 <a href="http://creativecommons.org/licenses/by/3.0/" rel="Creative Commons Attribution 3.0">![Foo](http://i.creativecommons.org/l/by/3.0/88x31.png)</a>
 
