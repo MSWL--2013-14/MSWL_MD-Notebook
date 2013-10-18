@@ -17,9 +17,9 @@ Developers and motivations shows ....
 
 ##Wiki Notebook
 
-
-* Lesson 1:  [`TBC`]
-* Lesson 2:  [`TBC`]
+* Lesson 1:  [`Developers and motivations`](https://github.com/Roumia/MSWL_MD-Notebook/wiki).
+* Lesson 2:  [`Developers profiles and motivations`](https://github.com/Roumia/MSWL_MD-Notebook/wiki/Developers-profiles-and-motivations).
+* Lesson 3:  [`Motivations of libre software developers`](https://github.com/Roumia/MSWL_MD-Notebook/wiki/Motivations-of-libre-software-developers).
 
 
 ##Development & Collaborate 
