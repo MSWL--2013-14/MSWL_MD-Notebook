@@ -6,7 +6,7 @@ Developers and motivations Notebook - Master on Libre Software (URJC - GSyC/Libr
 Introduction
 =============
 
-Developers and motivations shows ....
+Developers and motivations shows and understand who contributes to libre software development and their motivations to participate in libre software projects and the roles of participants and leadership in libre software projects. 
 
 ##Requirements
 
