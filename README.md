@@ -19,7 +19,7 @@ Developers and motivations shows and understand who contributes to libre softwar
 
 * Lesson 0:  [`Developers and motivations`](https://github.com/Roumia/MSWL_MD-Notebook/wiki).
 * Lesson 1:  [`Developers profiles and motivations`](https://github.com/Roumia/MSWL_MD-Notebook/wiki/Developers-profiles-and-motivations).
-* Lesson 2:  [`Motivations of libre software developers`](https://github.com/Roumia/MSWL_MD-Notebook/wiki/Motivations-of-libre-software-developers).
+* Lesson 2:  [`Motivations of libre software developers`](https://github.com/MSWL--2013-14/MSWL_MD-Notebook/wiki/The-Cathedral-and-the-Bazaar).
 
 
 ##Development & Collaborate 
